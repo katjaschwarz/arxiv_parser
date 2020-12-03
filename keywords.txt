@@ -1,0 +1,6 @@
+# Keywords should be separated by newline. In case you want the search to be case sensitive append a " *c*" at the end of the line.
+
+Case Sensitive *c*
+not case sensitive
+example
+another example
